@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.2.0.aar/86a459391273be102443a92057420c5d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d61623a5815ff814c34deb797d40c6d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f528283bbab8277c2b00dd5635f0d31f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3d274760378a2cc63c9258db3ad68a0f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6bb23512e9a90b3b5a4b4d5491359198/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.2.0.aar/92eb08a2509616144656ba9b15e210c6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.3.0.aar/5b560370e44ccb5cdf9b191fdc622e7d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d02a26d90180b509187263220f4e5152/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ea046426a3d2d9567150786ae909a84/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ab9458d4a4ca005226e7ed92e8b72fdf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fcf09f5f2a8d35d16d371f7b450d1d31/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a3b6dd776f46e351fc49492f999855d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/37b2405149fb47462580ef64bc816b59/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8c2ba29efa5313c725d298081127cb89/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.2.0.aar/151b341371b634418b8d65191436baa4/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/17f6f5b0f8d6213f3d9466a4f93319c2/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:3:5-59
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d61623a5815ff814c34deb797d40c6d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d61623a5815ff814c34deb797d40c6d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f528283bbab8277c2b00dd5635f0d31f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f528283bbab8277c2b00dd5635f0d31f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3d274760378a2cc63c9258db3ad68a0f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3d274760378a2cc63c9258db3ad68a0f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6bb23512e9a90b3b5a4b4d5491359198/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6bb23512e9a90b3b5a4b4d5491359198/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.2.0.aar/92eb08a2509616144656ba9b15e210c6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.2.0.aar/92eb08a2509616144656ba9b15e210c6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.3.0.aar/5b560370e44ccb5cdf9b191fdc622e7d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.3.0.aar/5b560370e44ccb5cdf9b191fdc622e7d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d02a26d90180b509187263220f4e5152/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d02a26d90180b509187263220f4e5152/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ea046426a3d2d9567150786ae909a84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ea046426a3d2d9567150786ae909a84/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ab9458d4a4ca005226e7ed92e8b72fdf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ab9458d4a4ca005226e7ed92e8b72fdf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fcf09f5f2a8d35d16d371f7b450d1d31/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fcf09f5f2a8d35d16d371f7b450d1d31/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a3b6dd776f46e351fc49492f999855d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a3b6dd776f46e351fc49492f999855d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/37b2405149fb47462580ef64bc816b59/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/37b2405149fb47462580ef64bc816b59/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8c2ba29efa5313c725d298081127cb89/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8c2ba29efa5313c725d298081127cb89/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.2.0.aar/151b341371b634418b8d65191436baa4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.2.0.aar/151b341371b634418b8d65191436baa4/AndroidManifest.xml:7:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/17f6f5b0f8d6213f3d9466a4f93319c2/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/17f6f5b0f8d6213f3d9466a4f93319c2/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:9:9-40
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:12:9-14:69
+	android:value
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:14:13-67
+	android:name
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:13:13-69
+activity#com.google.android.gms.example.Bannerexample.MyActivity
+ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:17:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.2.0.aar/86a459391273be102443a92057420c5d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.2.0.aar/86a459391273be102443a92057420c5d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d61623a5815ff814c34deb797d40c6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d61623a5815ff814c34deb797d40c6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f528283bbab8277c2b00dd5635f0d31f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f528283bbab8277c2b00dd5635f0d31f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3d274760378a2cc63c9258db3ad68a0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3d274760378a2cc63c9258db3ad68a0f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6bb23512e9a90b3b5a4b4d5491359198/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6bb23512e9a90b3b5a4b4d5491359198/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.2.0.aar/92eb08a2509616144656ba9b15e210c6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.2.0.aar/92eb08a2509616144656ba9b15e210c6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.3.0.aar/5b560370e44ccb5cdf9b191fdc622e7d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.3.0.aar/5b560370e44ccb5cdf9b191fdc622e7d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d02a26d90180b509187263220f4e5152/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d02a26d90180b509187263220f4e5152/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ea046426a3d2d9567150786ae909a84/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ea046426a3d2d9567150786ae909a84/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ab9458d4a4ca005226e7ed92e8b72fdf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ab9458d4a4ca005226e7ed92e8b72fdf/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fcf09f5f2a8d35d16d371f7b450d1d31/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fcf09f5f2a8d35d16d371f7b450d1d31/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a3b6dd776f46e351fc49492f999855d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a3b6dd776f46e351fc49492f999855d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/37b2405149fb47462580ef64bc816b59/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/37b2405149fb47462580ef64bc816b59/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8c2ba29efa5313c725d298081127cb89/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8c2ba29efa5313c725d298081127cb89/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.2.0.aar/151b341371b634418b8d65191436baa4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.2.0.aar/151b341371b634418b8d65191436baa4/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/17f6f5b0f8d6213f3d9466a4f93319c2/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/17f6f5b0f8d6213f3d9466a4f93319c2/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/halor/Desktop/googleads-mobile-android-examples-master/java/admob/BannerExample/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d61623a5815ff814c34deb797d40c6d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/2d61623a5815ff814c34deb797d40c6d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f528283bbab8277c2b00dd5635f0d31f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/f528283bbab8277c2b00dd5635f0d31f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3d274760378a2cc63c9258db3ad68a0f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/3d274760378a2cc63c9258db3ad68a0f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ea046426a3d2d9567150786ae909a84/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/1ea046426a3d2d9567150786ae909a84/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ab9458d4a4ca005226e7ed92e8b72fdf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ab9458d4a4ca005226e7ed92e8b72fdf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fcf09f5f2a8d35d16d371f7b450d1d31/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/fcf09f5f2a8d35d16d371f7b450d1d31/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a3b6dd776f46e351fc49492f999855d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a3b6dd776f46e351fc49492f999855d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/37b2405149fb47462580ef64bc816b59/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/37b2405149fb47462580ef64bc816b59/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8c2ba29efa5313c725d298081127cb89/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/8c2ba29efa5313c725d298081127cb89/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4d385ed7f5abfcccd5da1ff2d64417d1/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.2.0.aar/3b0bc39fc614e9e8faa328969cd7b9b9/AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.3.0.aar/9b68d57fd5c4cba4eca95a372853fec8/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d02a26d90180b509187263220f4e5152/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d02a26d90180b509187263220f4e5152/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/halor/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/d02a26d90180b509187263220f4e5152/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/17f6f5b0f8d6213f3d9466a4f93319c2/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/17f6f5b0f8d6213f3d9466a4f93319c2/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/halor/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/17f6f5b0f8d6213f3d9466a4f93319c2/AndroidManifest.xml:26:13-58
